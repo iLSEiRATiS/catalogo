@@ -42,10 +42,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# SQLite & local uploads
-/data/*.db
+# SQLite temporary journals & local uploads
 /data/*.db-shm
 /data/*.db-wal
 /data/uploads/*
 !/data/uploads/.gitkeep
+
 
