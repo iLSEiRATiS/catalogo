@@ -1,0 +1,3 @@
+sku,nombre,descripcion,categoria,precio,stock,imagen_url
+EJ-001,Nombre del producto,Descripción opcional del producto,Categoría,12500.50,10,
+EJ-002,Otro producto de ejemplo,,Categoría,3200,0,https://ejemplo.com/foto.jpg

@@ -1,0 +1,39 @@
+sku,nombre,descripcion,categoria,precio,stock,imagen_url
+GLO-001,Globos Látex Pastel x50,"Bolsa de 50 globos de látex N°10 en colores pastel surtidos. Ideales para arcos y guirnaldas.",Globos,6800,60,/seed/globos.jpg
+GLO-002,Globos Metalizados Dorados x25,"25 globos metalizados dorados N°12, brillo espejo. Alta durabilidad.",Globos,7900,34,/seed/globos.jpg
+GLO-003,Globos Cromados Surtidos x25,"Bolsa de 25 globos cromados en colores surtidos para eventos y cumpleaños.",Globos,8400,18,/seed/globos.jpg
+GLO-004,Globo Número Gigante 80cm,"Globo foil con forma de número de 80 cm. Consultar número disponible.",Globos,5200,22,/seed/globos.jpg
+GLO-005,Globo Estrella Foil 45cm,"Globo foil en forma de estrella, colores surtidos.",Globos,2900,0,/seed/globos.jpg
+GLO-006,Kit Arco Orgánico de Globos,"Kit con 100 globos surtidos, tira de armado y puntos adhesivos para armar tu arco.",Globos,18900,9,/seed/globos.jpg
+GLO-007,Inflador Eléctrico Doble Boquilla,"Inflador eléctrico para globos de látex, doble boquilla.",Globos,14500,6,/seed/globos.jpg
+DEC-001,Cartel Feliz Cumpleaños Brillante,"Guirnalda con letras brillantes Feliz Cumpleaños, 3 metros.",Decoración,4500,40,/seed/decoracion.jpg
+DEC-002,Set 3 Rosetones de Papel,"Set de 3 rosetones de papel plegable de 30, 40 y 50 cm para colgar.",Decoración,6200,28,/seed/decoracion.jpg
+DEC-003,Guirnalda de Borlas Colores,"Guirnalda de 10 borlas de papel de seda, 2 metros.",Decoración,3900,31,/seed/decoracion.jpg
+DEC-004,Confetti Circular Surtido 50g,"Confetti de papel circular multicolor. Ideal para mesas y globos transparentes.",Decoración,1800,75,/seed/decoracion.jpg
+DEC-005,Cortina Metalizada Dorada 1x2m,"Cortina de flecos metalizados para fondo de fotos.",Decoración,3400,45,/seed/decoracion.jpg
+DEC-006,Letrero Luminoso LED Happy Birthday,"Cartel con luces LED cálidas a pilas, 2 metros.",Decoración,9800,0,/seed/decoracion.jpg
+DEC-007,Banderines Triangulares Pastel x10m,"Guirnalda de banderines de tela en tonos pastel, 10 metros.",Decoración,5100,26,/seed/decoracion.jpg
+VAJ-001,Platos Descartables Colores x10,"Platos de cartón de 18 cm en colores surtidos, pack x10.",Vajilla Descartable,1900,120,/seed/vajilla.jpg
+VAJ-002,Vasos de Papel Lunares x10,"Vasos de papel de 250 ml con diseño de lunares, pack x10.",Vajilla Descartable,1700,95,/seed/vajilla.jpg
+VAJ-003,Servilletas Estampadas x20,"Servilletas de papel de doble hoja, estampados surtidos.",Vajilla Descartable,1500,110,/seed/vajilla.jpg
+VAJ-004,Sorbetes de Papel Rayados x25,"Pajitas de papel biodegradable rayadas, pack x25.",Vajilla Descartable,1600,80,/seed/vajilla.jpg
+VAJ-005,Cubiertos Descartables Metalizados x24,"Set de tenedores, cuchillos y cucharas metalizados.",Vajilla Descartable,2800,0,/seed/vajilla.jpg
+VAJ-006,Mantel Descartable Rectangular,"Mantel de plástico 137x274 cm, colores lisos surtidos.",Vajilla Descartable,2400,50,/seed/vajilla.jpg
+PIN-001,Piñata Burrito Clásica,"Piñata artesanal de cartón con flecos de colores. Mide 45 cm.",Piñatas y Velas,15800,12,/seed/pinatas.jpg
+PIN-002,Piñata Personaje a Pedido,"Piñata personalizada con el personaje que elijas. Consultar tiempos de entrega.",Piñatas y Velas,24500,5,/seed/pinatas.jpg
+PIN-003,Velas Mágicas x12,"Pack de 12 velas rayadas de colores para torta.",Piñatas y Velas,1400,90,/seed/pinatas.jpg
+PIN-004,Vela Número Dorada,"Vela con forma de número, color dorado con brillo. Consultar número.",Piñatas y Velas,1200,64,/seed/pinatas.jpg
+PIN-005,Gorros de Cumpleaños Surtidos x6,"Pack de 6 gorros cónicos con pompón, diseños surtidos.",Piñatas y Velas,3600,38,/seed/pinatas.jpg
+PIN-006,Bengalas Chispeantes x10,"Pack de 10 bengalas para torta, 15 cm.",Piñatas y Velas,2900,0,/seed/pinatas.jpg
+DIS-001,Peluca Afro Arcoíris,"Peluca rizada multicolor, talle único.",Disfraces y Accesorios,5400,15,/seed/disfraces.jpg
+DIS-002,Peluca Larga Violeta,"Peluca de pelo largo ondulado violeta, talle único.",Disfraces y Accesorios,6200,11,/seed/disfraces.jpg
+DIS-003,Antifaz Veneciano Lentejuelas,"Antifaz con lentejuelas y detalles brillantes. Varios colores.",Disfraces y Accesorios,3900,29,/seed/disfraces.jpg
+DIS-004,Anteojos Fiesta Corazón/Estrella,"Anteojos locos de plástico, modelos surtidos.",Disfraces y Accesorios,1500,70,/seed/disfraces.jpg
+DIS-005,Corona Tiara Brillante,"Tiara con detalles de strass plástico, ideal cumpleaños y quince.",Disfraces y Accesorios,2700,33,/seed/disfraces.jpg
+DIS-006,Sombrero Galera Negro,"Galera de fieltro negra, talle único.",Disfraces y Accesorios,4800,0,/seed/disfraces.jpg
+DIS-007,Boa de Plumas Multicolor,"Boa de plumas de 1,8 metros para disfraces y fiestas.",Disfraces y Accesorios,3300,24,/seed/disfraces.jpg
+SOR-001,Cañón de Confeti 40cm,"Lanzador de confeti de papel, dispara hasta 5 metros.",Sorpresas y Luces,3800,42,/seed/sorpresas.jpg
+SOR-002,Matracas y Cornetas x12,"Pack de 12 cornetas lengua de suegra surtidas.",Sorpresas y Luces,2600,58,/seed/sorpresas.jpg
+SOR-003,Pulseras Luminosas x50,"Tubo con 50 pulseras fluorescentes para fiestas nocturnas.",Sorpresas y Luces,6900,20,/seed/sorpresas.jpg
+SOR-004,Aplaudidores Manito x6,"Pack de 6 aplaudidores plásticos de colores.",Sorpresas y Luces,2200,35,/seed/sorpresas.jpg
+SOR-005,Bolsitas Sorpresa Surtidas x10,"Pack de 10 bolsitas con diseños infantiles para golosinas y souvenirs.",Sorpresas y Luces,2300,66,/seed/sorpresas.jpg

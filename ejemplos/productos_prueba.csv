@@ -1,0 +1,6 @@
+sku,nombre,descripcion,categoria,precio,stock,imagen_url
+REM-001,Remera Algodón Premium,"Remera 100% algodón peinado, corte regular. Disponible en varios colores.",Indumentaria,18500,25,https://picsum.photos/seed/remera/600/600
+ZAP-014,Zapatillas Urbanas Runner,"Zapatillas livianas con suela de goma antideslizante.",Calzado,89900,8,https://picsum.photos/seed/zapatillas/600/600
+MOC-203,Mochila Impermeable 25L,"Mochila con compartimento para notebook de 15 pulgadas y puerto USB.",Accesorios,45200,0,https://picsum.photos/seed/mochila/600/600
+TAZ-050,Taza de Cerámica Artesanal,"Taza de 350 ml hecha a mano, apta para lavavajillas.",Hogar,7800,40,
+CAF-100,Café Molido 500g,"Mezcla premium 100% arábica, tueste medio.",Alimentos,"12.350,50",0,

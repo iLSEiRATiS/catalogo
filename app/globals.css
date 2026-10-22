@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-body), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-lilita), var(--font-body), sans-serif;
+
+  /* Paleta de fiesta */
+  --color-ink: #24123f;
+  --color-paper: #ffe28a;
+  --color-pink: #e5246f;
+  --color-pink-deep: #b8135a;
+  --color-sun: #ffc61a;
+  --color-teal: #12a594;
+  --color-sky: #2f6bff;
+  --color-muted: #5b4a78;
+  --color-line: #e3c25a;
+
+  /* Tokens que usa el panel de administración */
+  --color-brand: #2a1650;
+  --color-brand-soft: #efe8fb;
+  --color-wa: #1fa855;
+  --color-wa-dark: #158a43;
+
+  --animate-fade-up: fade-up 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-pop: pop 0.25s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-shimmer: shimmer 1.4s linear infinite;
+  --animate-bunting: bunting 0.9s cubic-bezier(0.16, 1, 0.3, 1) both;
+
+  @keyframes fade-up {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes pop {
+    from { opacity: 0; transform: scale(0.96) translateY(8px); }
+    to { opacity: 1; transform: scale(1) translateY(0); }
+  }
+  @keyframes shimmer {
+    from { background-position: 200% 0; }
+    to { background-position: -200% 0; }
+  }
+  /* Los banderines "caen" y se asientan una sola vez al cargar */
+  @keyframes bunting {
+    0% { transform: translateY(-100%) rotate(-1.2deg); opacity: 0; }
+    60% { transform: translateY(2%) rotate(0.4deg); opacity: 1; }
+    100% { transform: translateY(0) rotate(0); opacity: 1; }
+  }
+}
+
+:root { color-scheme: light; scroll-padding-top: 9rem; }
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-tap-highlight-color: transparent;
+  caret-color: var(--color-pink);
+}
+
+::selection { background: var(--color-sun); color: var(--color-ink); }
+
+/* Scrollbar acorde a la paleta */
+* { scrollbar-width: thin; scrollbar-color: #cdbfe0 transparent; }
+
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+
+.skeleton {
+  background: linear-gradient(90deg, #efe7f6 25%, #f8f3fc 50%, #efe7f6 75%);
+  background-size: 200% 100%;
+  animation: var(--animate-shimmer);
+}
+
+/* Números de precios alineados */
+.tabular { font-variant-numeric: tabular-nums; }
+
+:focus-visible { outline: 3px solid var(--color-sky); outline-offset: 2px; border-radius: 4px; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
